@@ -3,7 +3,7 @@ title: "Film camera apps for Android in 2026: what exists, and what's still miss
 slug: film-camera-apps-for-android-2026
 description: "The best-known film camera apps are still iPhone-only. Here's what Android shooters can use in October 2026, what separates a real film camera app from a filter app, and what to look for."
 date: 2026-10-09
-updated: 2026-10-31
+updated: 2026-11-04
 topic: android-film-cameras
 keyword: film camera app for Android
 tags: [android, film camera app, film looks, film grain, halation, mood.camera, lampa]
@@ -77,6 +77,6 @@ Whatever you install, these are the things that separate a convincing look from 
 
 ## Where trycheese fits
 
-We're building [trycheese](/) for iPhone **and** Android, launching on both stores together, with the same [film looks](/#looks), the same grain and halation and the same [camera controls](/#camera) on both. It isn't out yet, so it doesn't belong in a "what you can install today" list. When it is, it'll be free at launch, with no subscription and no live filter preview.
+We make [trycheese](/), for iPhone **and** Android, with the same [film looks](/#looks), the same grain and halation and the same [camera controls](/#camera) on both. It's out now on the [App Store](https://apps.apple.com/app/trycheese/id6825442553) and [Google Play](https://play.google.com/store/apps/details?id=app.trycheese.ai), free, with no subscription and no live filter preview.
 
 Until then, if you're on Android: try what's there, check how each app handles grain and highlights, and keep an eye on this journal. We'll update this post as the Android landscape changes.

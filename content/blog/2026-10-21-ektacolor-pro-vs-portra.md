@@ -3,7 +3,7 @@ title: "Ektacolor Pro vs Portra: Kodak's new film names explained"
 slug: ektacolor-pro-vs-portra
 description: "Ektacolor Pro vs Portra, Ektapan vs T-Max: what Kodak's 2026 film names mean, why Eastman Kodak renamed them, and whether the film inside has changed."
 date: 2026-10-21
-updated: 2026-10-31
+updated: 2026-11-04
 topic: film-photography
 keyword: Ektacolor Pro vs Portra
 tags: [film photography, kodak, portra, ektacolor pro, ektapan, colour negative]
@@ -99,4 +99,4 @@ The one place names matter is search. Recipes, presets and scanning profiles tha
 
 We think about this a lot, because a film look on a phone is also a look, not a label. trycheese's [film looks](/#looks) are our own, hand-tuned around how film actually behaves: grain, filmic tone and [halation around bright lights](/blog/what-is-halation). They aren't stand-ins for a box of Portra, and real film photography is still its own joy.
 
-trycheese is coming to iPhone and Android, free at launch. It isn't out yet. In the meantime, if you've got a roll of either name in the fridge, go shoot it.
+trycheese is out now on the [App Store](https://apps.apple.com/app/trycheese/id6825442553) and [Google Play](https://play.google.com/store/apps/details?id=app.trycheese.ai), free. And if you've got a roll of either name in the fridge, go shoot it.

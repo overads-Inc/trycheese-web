@@ -3,6 +3,7 @@ title: "Snapseed Camera on Android: a free film camera, explained"
 slug: snapseed-camera-android
 description: "Snapseed Camera on Android lets you shoot through film styles for free. What it does, the full style list, setup, and how it compares to baked-in apps."
 date: 2026-10-30
+updated: 2026-11-04
 topic: android-film-cameras
 keyword: Snapseed Camera Android
 tags: [android, snapseed, film camera app, film looks, film grain, halation]
@@ -109,4 +110,4 @@ Snapseed isn't the only movement on Android this year. ELMAR, which we covered i
 
 trycheese makes the opposite bet to Snapseed. Our [film looks](/#looks) are baked in at the shutter, there's [no live filter preview](/#in-the-moment), and you can't import photos, because it's a camera, not an editor. If you want to keep reshaping a photo after you take it, Snapseed is the better tool, and it's free today.
 
-If you'd rather press the shutter and be done, that's what we're building. trycheese isn't out yet. It's coming to iPhone and Android together, free at launch.
+If you'd rather press the shutter and be done, that's what we built. trycheese is out now on the [App Store](https://apps.apple.com/app/trycheese/id6825442553) and [Google Play](https://play.google.com/store/apps/details?id=app.trycheese.ai), free.

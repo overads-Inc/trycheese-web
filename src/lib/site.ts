@@ -3,7 +3,7 @@ export const SITE = {
   url: "https://trycheese.app",
   tagline: "A film camera for iPhone and Android",
   description:
-    "Real grain, red halation and filmic colour, baked in at the shutter. No live filter preview, no editing. Coming soon to the App Store and Google Play.",
+    "Real grain, red halation and filmic colour, baked in at the shutter. No live filter preview, no editing. Free on the App Store and Google Play.",
   locale: "en",
   /** The contact address the app and backend show (trycheese_be SUPPORT_EMAIL in src/modules/email/notices.ts). */
   email: "hello@trycheese.app",
@@ -29,6 +29,12 @@ export const PAGE_UPDATED = {
 export const PRIVACY_DRAFT: boolean = true;
 
 /** Absolute URL for a site path, e.g. absoluteUrl("/blog") → https://trycheese.app/blog */
+/** Live store listings (bundle and package id app.trycheese.ai). */
+export const STORES = {
+  appStore: "https://apps.apple.com/app/trycheese/id6825442553",
+  googlePlay: "https://play.google.com/store/apps/details?id=app.trycheese.ai",
+} as const;
+
 export const absoluteUrl = (path = "/") => `${SITE.url}${path === "/" ? "" : path}`;
 
 /** The brand share card (app/opengraph-image.png), for pages that set their own openGraph. */

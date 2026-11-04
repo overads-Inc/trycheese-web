@@ -12,15 +12,15 @@ Next.js 16 (App Router) + Tailwind CSS v4, pnpm, TypeScript, chosen by the user 
 
 ## Users
 
-People who want phone photos that look like film without editing: film nostalgics, Gen Z casual shooters, hobbyist creators, and memory keepers (source: `camera-project/brand/context.md`). On this site they are first-time visitors deciding whether trycheese is worth downloading when it launches.
+People who want phone photos that look like film without editing: film nostalgics, Gen Z casual shooters, hobbyist creators, and memory keepers (source: `camera-project/brand/context.md`). On this site they are first-time visitors deciding whether trycheese is worth downloading.
 
 ## Product Purpose
 
-trycheese is a film camera app for iOS and Android, in the class of mood.camera and Lampa: hand-tuned film looks (grain, halation, filmic tone) are baked in at capture, there is no live filter preview (so people stay in the moment; the effects can't render accurately in real time), and photos cannot be imported: it is a camera, not an editor. After each shot the processed photo is revealed a beat later. (Concept confirmed by the user 2026-10-09; there are no 12-frame rolls and no multi-hour develop wait.) The marketing site's job pre-launch: make the film look and the two-platform availability believable, and point visitors at the coming-soon store badges.
+trycheese is a film camera app for iOS and Android, in the class of mood.camera and Lampa: hand-tuned film looks (grain, halation, filmic tone) are baked in at capture, there is no live filter preview (so people stay in the moment; the effects can't render accurately in real time), and photos cannot be imported: it is a camera, not an editor. After each shot the processed photo is revealed a beat later. (Concept confirmed by the user 2026-10-09; there are no 12-frame rolls and no multi-hour develop wait.) The marketing site's job: make the film look believable and get visitors to download it from the App Store or Google Play.
 
 ## Positioning
 
-The premium film camera with a grin, on both platforms: mood.camera and Lampa are iPhone-only; trycheese ships on iPhone **and** Android, free at launch.
+The premium film camera with a grin, on both platforms: mood.camera and Lampa are iPhone-only; trycheese is on iPhone **and** Android, free.
 
 ## Operating Context
 
@@ -28,11 +28,11 @@ Visitors arrive on phones and desktops, mostly from social posts and store-adjac
 
 ## Capabilities and Constraints
 
-- App status: pre-launch. Store links do not exist yet → badges are shown as "coming soon".
+- App status: **live** on both stores (confirmed 2026-11-04; bundle and package id `app.trycheese.ai`, iOS 15 or later). App Store: https://apps.apple.com/app/trycheese/id6825442553 · Google Play: https://play.google.com/store/apps/details?id=app.trycheese.ai (both in `STORES`, `src/lib/site.ts`). Show Apple's and Google's official badges (`public/badges`, `StoreBadges`) linking to them. Never write that trycheese is "coming soon", "not out yet" or "free at launch"; journal posts end by saying it is out now on both stores, free.
 - No email capture or sign-up; the only form is /delete-account, which calls the API server to server.
 - Privacy policy (/privacy) and support (/support) describe what the app and API actually do; update them with any change to data handling. /terms and /community-guidelines describe the app's real rules.
 - Photos: no real trycheese shots exist yet. Sample images are labelled "Sample" until real shots replace them.
-- Planned app capabilities (from the PRD, not yet shipped): own film looks, grain, halation, no live filter preview, no importing, EV / lenses / aspect ratios, portrait mode, double exposure, preset recipes shared by code/QR. Describe these as what the app does, never with invented numbers (the ten looks shown come from the app's own catalog; no blend-mode or other invented counts).
+- App capabilities: own film looks, grain, halation, no live filter preview, no importing, EV / lenses / aspect ratios, portrait mode, double exposure, preset recipes shared by code/QR. Describe these as what the app does, never with invented numbers (the ten looks shown come from the app's own catalog; no blend-mode or other invented counts).
 
 ## Brand Commitments
 

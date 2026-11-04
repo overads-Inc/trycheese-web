@@ -3,6 +3,7 @@ title: "iPhone 18 Pro variable aperture: what it really changes"
 slug: iphone-18-pro-variable-aperture
 description: "The iPhone 18 Pro variable aperture in film terms: what f/1.48 to f/4 does to light and depth of field, when to set it yourself, and why Samsung may pass."
 date: 2026-11-02
+updated: 2026-11-04
 topic: phone-photography
 keyword: iPhone 18 Pro variable aperture
 tags: [phone photography, iphone, aperture, depth of field, samsung, exposure]
@@ -92,4 +93,4 @@ If you're on Android, you aren't missing much yet. Going from the iPhone 17 Pro'
 
 We come at this from the other end: how little do you need to touch while you shoot? Our [film looks](/#looks) are baked in at the shutter, and the [camera controls](/#camera) cover the basics, like exposure, lens choice and aspect ratio. There's [no live filter preview](/#in-the-moment), so you stay on the scene, not the settings.
 
-trycheese isn't out yet. It's coming to iPhone and Android together, free at launch. If you've got an iPhone 18 Pro in the meantime, shoot one close-up at f/1.48 and again at f/4. Then decide whether you'll ever leave auto.
+trycheese is out now on the [App Store](https://apps.apple.com/app/trycheese/id6825442553) and [Google Play](https://play.google.com/store/apps/details?id=app.trycheese.ai), free. If you've got an iPhone 18 Pro, shoot one close-up at f/1.48 and again at f/4. Then decide whether you'll ever leave auto.

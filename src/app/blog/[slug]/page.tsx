@@ -116,7 +116,7 @@ export default async function PostPage({ params }: PageProps<"/blog/[slug]">) {
               <Link className="underline decoration-darkroom/40" href="/#in-the-moment">why there&rsquo;s no preview</Link>.
             </p>
             <div className="mt-6">
-              <StoreBadges tone="cheese" />
+              <StoreBadges />
             </div>
           </aside>
         </div>

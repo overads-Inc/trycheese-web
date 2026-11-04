@@ -3,7 +3,7 @@ title: "Black and white film look: what makes it, how to shoot it"
 slug: black-and-white-film-look
 description: "What gives black and white film its look: how colours turn into greys, classic vs fine grain, and glow. Plus how to shoot a convincing version on a phone."
 date: 2026-10-22
-updated: 2026-11-02
+updated: 2026-11-04
 topic: film-looks
 keyword: black and white film look
 tags: [film looks, black and white, film grain, halation, film photography, iphone]
@@ -100,4 +100,4 @@ A short checklist that works whatever app you use:
 
 **trycheese** takes a different route. Its catalogue includes two black and white [film looks](/#looks): Smoked, a hard black and white, and Swiss, a soft one. Like every trycheese look, they bake grain, halation and a filmic tone curve into the photo at the shutter. There's [no live filter preview](/#in-the-moment), so you frame the scene and see the result a beat later.
 
-trycheese is coming to iPhone and Android together, free at launch. It isn't out yet. In the meantime, try the checklist on your phone's own camera this week: one street, one light source, no colour.
+trycheese is out now on the [App Store](https://apps.apple.com/app/trycheese/id6825442553) and [Google Play](https://play.google.com/store/apps/details?id=app.trycheese.ai), free. Either way, try the checklist on your phone's own camera this week: one street, one light source, no colour.

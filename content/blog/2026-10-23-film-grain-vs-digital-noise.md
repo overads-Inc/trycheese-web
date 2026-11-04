@@ -3,7 +3,7 @@ title: "Film grain vs digital noise: what's the difference?"
 slug: film-grain-vs-digital-noise
 description: "Film grain vs digital noise: where each one comes from, why grain reads as texture and noise as damage, and how to spot digital grain that's just an overlay."
 date: 2026-10-23
-updated: 2026-11-02
+updated: 2026-11-04
 topic: grain-and-halation
 keyword: film grain vs digital noise
 tags: [film grain, digital noise, grain, phone photography, film looks, iso]
@@ -93,4 +93,4 @@ If you shoot black and white, grain matters even more. It's one of the three ing
 
 We treat grain like film speed, because that's how it works on film. Each look in trycheese's catalogue lists its grain on the [looks section](/#looks), from Grain 100 on clean looks like Mozz and Fresh up to Grain 1600 on Smoked, our hard black and white. You pick a look before you shoot, then turn two dials, grain and tone, to taste. The grain is rendered into the photo at the shutter alongside halation and a filmic tone curve, and there's [no live filter preview](/#in-the-moment).
 
-trycheese isn't out yet. It's coming to iPhone and Android together, free at launch. Until then, try the checklist above on any film-look photo in your feed. Once you see an overlay, you can't unsee it.
+trycheese is out now on the [App Store](https://apps.apple.com/app/trycheese/id6825442553) and [Google Play](https://play.google.com/store/apps/details?id=app.trycheese.ai), free. Either way, try the checklist above on any film-look photo in your feed. Once you see an overlay, you can't unsee it.

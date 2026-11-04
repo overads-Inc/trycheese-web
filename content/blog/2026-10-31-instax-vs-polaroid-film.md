@@ -120,4 +120,4 @@ Paying £2 a frame is part of the thrill of instant film, and part of why people
 
 What trycheese borrows is the reveal. Our [film looks](/#looks) are baked in, [there's no live filter preview](/#in-the-moment), and your photo develops for a beat before it appears, with grain, halation and filmic colour. If you're curious what's behind that look, here's [what makes a photo look like film](/blog/what-makes-photos-look-like-film).
 
-trycheese isn't out yet. It's coming to iPhone and Android together, free at launch. Until then, go burn a pack. It's what they're for.
+trycheese is out now on the [App Store](https://apps.apple.com/app/trycheese/id6825442553) and [Google Play](https://play.google.com/store/apps/details?id=app.trycheese.ai), free. And if you've got a camera loaded, go burn a pack. It's what they're for.

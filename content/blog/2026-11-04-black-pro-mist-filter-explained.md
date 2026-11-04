@@ -3,6 +3,7 @@ title: "What does a Black Pro-Mist filter do? The glow, explained"
 slug: black-pro-mist-filter-explained
 description: "What does a Black Pro-Mist filter do? How diffusion makes highlights glow, which strength to pick, how it differs from halation, and how to get it on a phone."
 date: 2026-11-04
+updated: 2026-11-04
 topic: grain-and-halation
 keyword: what does a Black Pro-Mist filter do
 tags: [bloom, diffusion, black pro-mist, halation, film looks, phone photography]
@@ -101,4 +102,4 @@ You have two routes on a phone.
 
 trycheese's [film looks](/#looks) are tuned like film stocks, with colour, grain, red halation and a soft highlight roll-off baked in at the shutter. If you like the pastel end of the mist look, Brie, our soft, low-contrast look, is the closest in mood. There's [no live filter preview](/#in-the-moment), so you see the result a beat after you shoot.
 
-trycheese isn't out yet. It's coming to iPhone and Android together, free at launch. In the meantime, try any glow effect on a streetlamp at night. Two seconds of looking will tell you whether it's mist or a sticker.
+trycheese is out now on the [App Store](https://apps.apple.com/app/trycheese/id6825442553) and [Google Play](https://play.google.com/store/apps/details?id=app.trycheese.ai), free. Either way, try any glow effect on a streetlamp at night. Two seconds of looking will tell you whether it's mist or a sticker.

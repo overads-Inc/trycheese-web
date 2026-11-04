@@ -1,7 +1,7 @@
 import { allPosts } from "@/lib/blog/data";
 import { topicName } from "@/lib/blog/posts";
 import { topics } from "@/lib/blog/topics";
-import { PRIVACY_DRAFT, SITE, absoluteUrl } from "@/lib/site";
+import { PRIVACY_DRAFT, SITE, STORES, absoluteUrl } from "@/lib/site";
 
 const esc = (s: string) =>
   s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
@@ -13,10 +13,10 @@ export async function llmsTxt() {
   const lines = [
     `# ${SITE.name}`,
     "",
-    `> ${SITE.name} is a film camera app for iPhone and Android. Film looks (colour, grain, halation, filmic tone) are applied at the moment of capture; there is no live filter preview and photos cannot be imported: it is a camera, not an editor. Coming soon to the App Store and Google Play; free at launch.`,
+    `> ${SITE.name} is a film camera app for iPhone and Android. Film looks (colour, grain, halation, filmic tone) are applied at the moment of capture; there is no live filter preview and photos cannot be imported: it is a camera, not an editor. Free on the App Store (${STORES.appStore}) and Google Play (${STORES.googlePlay}).`,
     "",
     "Key facts:",
-    "- Platforms: iPhone (iOS) and Android, launching together.",
+    "- Platforms: iPhone (iOS 15 or later) and Android, both out now.",
     "- No live filter preview: the viewfinder shows the scene; the look appears on the captured photo.",
     "- No importing of existing photos; no editing suite.",
     "- Free, with no subscription or ads. The first 5 photos work signed out; after that, and for Community, the app needs a free account (email code, Apple or Google). Photos stay on the device unless the user shares them to Community or picks one as a profile photo.",

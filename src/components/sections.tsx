@@ -91,7 +91,7 @@ export function Looks() {
         ))}
       </ul>
       <p className="rebate mt-4 text-[12px] text-grain">
-        Sample images made for the app&rsquo;s look picker. Looks may still change before launch.
+        Sample images made for the app&rsquo;s look picker.
       </p>
     </section>
   );
@@ -375,15 +375,15 @@ function PhoneMock({ os }: { os: "iPhone" | "Android" }) {
 
 export function Platforms() {
   return (
-    <section className="px-5 pt-32 sm:px-8 lg:px-14">
+    <section id="download" className="scroll-mt-24 px-5 pt-32 sm:px-8 lg:px-14">
       <div className="grid items-center gap-16 lg:grid-cols-[1fr_1.2fr]">
         <div>
           <h2 className="display text-[clamp(2.5rem,6vw,5rem)]">
             iPhone and Android. <span className="accent">Same film.</span>
           </h2>
           <p className="mt-6 max-w-md text-[17px] leading-relaxed text-paper/75">
-            Same looks, same grain, same controls on both. trycheese launches
-            on the App Store and Google Play together.
+            Same looks, same grain, same controls on both. Out now on the App
+            Store and Google Play, and free to download.
           </p>
           <div className="mt-10">
             <StoreBadges />

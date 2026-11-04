@@ -1,6 +1,6 @@
 import type { Post } from "@/lib/blog/posts";
 import { topicName } from "@/lib/blog/posts";
-import { SITE, absoluteUrl } from "@/lib/site";
+import { SITE, STORES, absoluteUrl } from "@/lib/site";
 
 const org = {
   "@type": "Organization",
@@ -22,6 +22,19 @@ export const siteJsonLd = () => ({
       description: SITE.description,
       publisher: { "@id": `${SITE.url}/#organization` },
       inLanguage: SITE.locale,
+    },
+    {
+      "@type": "MobileApplication",
+      "@id": `${SITE.url}/#app`,
+      name: SITE.name,
+      description: SITE.description,
+      applicationCategory: "PhotographyApplication",
+      operatingSystem: "iOS 15.0 or later, Android",
+      offers: { "@type": "Offer", price: "0", priceCurrency: "USD" },
+      downloadUrl: [STORES.appStore, STORES.googlePlay],
+      sameAs: [STORES.appStore, STORES.googlePlay],
+      image: absoluteUrl("/icon.png"),
+      publisher: { "@id": `${SITE.url}/#organization` },
     },
   ],
 });

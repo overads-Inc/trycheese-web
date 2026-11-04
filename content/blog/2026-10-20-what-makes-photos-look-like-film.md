@@ -3,7 +3,7 @@ title: "What makes a photo look like film? 6 tells, explained"
 slug: what-makes-photos-look-like-film
 description: "What makes a photo look like film? Highlight roll-off, stock colour, grain, halation and softness: how each one works, and how to spot a fake film look."
 date: 2026-10-20
-updated: 2026-10-23
+updated: 2026-11-04
 topic: film-looks
 keyword: what makes a photo look like film
 tags: [film looks, film grain, halation, colour negative, slide film, phone photography]
@@ -87,4 +87,4 @@ Run a photo through this checklist. A real film look passes most of it, and a st
 
 This list is basically our spec sheet. trycheese is a film camera app for iPhone and Android, and its [film looks](/#looks) bake a filmic tone curve, grain and halation around the brightest highlights into the photo at the shutter. There's [no live filter preview](/#in-the-moment), partly because effects this heavy can't render accurately in real time, and partly because it keeps you looking at the scene.
 
-It isn't out yet. When it is, it'll be free at launch on both stores. In the meantime, take any film-look photo you like and run it through the checklist above. It's a good way to train your eye.
+It's out now on the [App Store](https://apps.apple.com/app/trycheese/id6825442553) and [Google Play](https://play.google.com/store/apps/details?id=app.trycheese.ai), free. Either way, take any film-look photo you like and run it through the checklist above. It's a good way to train your eye.

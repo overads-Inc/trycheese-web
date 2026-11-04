@@ -29,7 +29,7 @@ export function Hero() {
               baked in the moment you press the shutter.
             </p>
             <div className="mt-9">
-              <StoreBadges tone="cheese" />
+              <StoreBadges />
             </div>
             <p className="rebate mt-5 text-[13px] text-ink-muted">
               Free. Your photos stay on your phone.
@@ -75,9 +75,9 @@ export function Hero() {
             <div className="absolute -left-5 -top-8 grid size-32 place-items-center sm:-left-10 sm:size-36">
               <span aria-hidden className="starburst absolute inset-0 bg-negative" />
               <span className="wordmark relative -rotate-12 text-center text-[19px] leading-[1.05] text-cream sm:text-[21px]">
-                free at
+                free on
                 <br />
-                launch
+                both stores
               </span>
             </div>
           </div>

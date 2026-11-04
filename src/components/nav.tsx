@@ -24,9 +24,12 @@ export function Nav() {
             </li>
           ))}
         </ul>
-        <span className="whitespace-nowrap rounded-full bg-cheese px-3.5 py-1.5 text-[13px] font-semibold text-darkroom">
-          Coming soon<span className="hidden sm:inline"> · iOS &amp; Android</span>
-        </span>
+        <Link
+          href="/#download"
+          className="whitespace-nowrap rounded-full bg-cheese px-3.5 py-1.5 text-[13px] font-semibold text-darkroom transition-colors hover:bg-cheese-light"
+        >
+          Get the app<span className="hidden sm:inline"> · iOS &amp; Android</span>
+        </Link>
       </nav>
     </header>
   );
