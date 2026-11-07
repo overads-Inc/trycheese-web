@@ -173,6 +173,16 @@ export default function PrivacyPage() {
               in any request or in usage data.
             </p>
             <p>
+              Chase the Light, which works out when golden and blue hour are
+              where you are, can use your location too. It&rsquo;s optional:
+              you can pick a city instead. Your last position stays on your
+              phone so its widgets work. To get the weather, the app asks
+              Open-Meteo, a free forecast service, with that position rounded to
+              about 1&nbsp;km, and nothing else: no account, no photos. Searching
+              for a city sends what you type to Open-Meteo&rsquo;s city search.
+              We never see either.
+            </p>
+            <p>
               A profile photo is different: you pick it from your library, and
               the app uploads it with whatever details the photo already holds,
               which can include where it was taken. Our server strips all
@@ -472,7 +482,9 @@ export default function PrivacyPage() {
               <li>
                 No location tracking. The camera&rsquo;s location goes only into
                 the copy saved on your phone, and we strip all metadata, location
-                included, from every photo we process.
+                included, from every photo we process. Chase the Light sends only
+                a position rounded to about 1&nbsp;km to Open-Meteo for the
+                forecast.
               </li>
               <li>
                 No reading your photo library on iPhone. trycheese can only add

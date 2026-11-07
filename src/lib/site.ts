@@ -13,7 +13,7 @@ export const SITE = {
 
 /** Last-updated dates of the hand-written pages: shown on each page and used by the sitemap. */
 export const PAGE_UPDATED = {
-  privacy: "2026-10-21",
+  privacy: "2026-11-07",
   support: "2026-10-21",
   terms: "2026-10-21",
   communityGuidelines: "2026-10-21",
