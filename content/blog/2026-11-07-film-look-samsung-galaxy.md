@@ -3,6 +3,7 @@ title: "How to get a film look on a Samsung Galaxy phone"
 slug: film-look-samsung-galaxy
 description: "Get a film look on a Samsung Galaxy in three steps: tone down the processing, copy a film colour with My Filters, then add grain and glow with Snapseed."
 date: 2026-11-07
+updated: 2026-11-09
 topic: android-film-cameras
 keyword: film look on Samsung Galaxy
 tags: [android, samsung, film looks, film camera app, film grain, phone photography]
@@ -65,7 +66,7 @@ This is the Galaxy's secret weapon. My Filters builds a reusable camera filter f
 
 You can save up to 99 of them. Swipe to your filter in the viewfinder, and compare against **Original** before you shoot. You can also change a filter's intensity, or swap it, later in Gallery under Edit. Samsung notes My Filters isn't available at the 64MP 3:4 setting, and that availability depends on your model and software.
 
-The trick is in the source photo. Use a frame you shot on real film yourself, scanned from a roll of something like Kodak Gold or Portra (now [also sold as Ektacolor Pro](/blog/ektacolor-pro-vs-portra)). Pick one with skin, sky and greenery in it, so the filter has a full range of colours to learn from.
+The trick is in the source photo. Use a frame you shot on real film yourself, scanned from a roll of something like Kodak Gold or Portra (now [also sold as Ektacolor Pro](/blog/ektacolor-pro-vs-portra)). Pick one with skin, sky and greenery in it, so the filter has a full range of colours to learn from. If Portra is the look you're after, we cover [what it really looks like](/blog/portra-look-on-phone) first.
 
 Samsung describes My Filters in terms of colour and style, so treat it as the colour half of a film look. For texture, go to step 3.
 

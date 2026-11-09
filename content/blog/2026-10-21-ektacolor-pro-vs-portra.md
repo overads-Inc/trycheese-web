@@ -3,7 +3,7 @@ title: "Ektacolor Pro vs Portra: Kodak's new film names explained"
 slug: ektacolor-pro-vs-portra
 description: "Ektacolor Pro vs Portra, Ektapan vs T-Max: what Kodak's 2026 film names mean, why Eastman Kodak renamed them, and whether the film inside has changed."
 date: 2026-10-21
-updated: 2026-11-05
+updated: 2026-11-09
 topic: film-photography
 keyword: Ektacolor Pro vs Portra
 tags: [film photography, kodak, portra, ektacolor pro, ektapan, colour negative]
@@ -93,7 +93,7 @@ A simple buying checklist:
 
 Nothing, and that's the point. A film's look comes from its emulsion and how you expose and develop it, not from the name on the canister. If you love how Portra renders skin, Ektacolor Pro should render it the same way. We unpack what that rendering actually is, from highlight roll-off to stock colour, in [what makes a photo look like film](/blog/what-makes-photos-look-like-film).
 
-The one place names matter is search. Recipes, presets and scanning profiles that say "Portra" now describe a film sold as Ektacolor Pro. If you're hunting for examples or settings, search both names.
+If you're after the look rather than the film, here's [how to get the Portra look on your phone](/blog/portra-look-on-phone). The one place names matter is search. Recipes, presets and scanning profiles that say "Portra" now describe a film sold as Ektacolor Pro. If you're hunting for examples or settings, search both names.
 
 ## Where trycheese fits
 
