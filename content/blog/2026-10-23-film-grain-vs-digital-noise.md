@@ -3,7 +3,7 @@ title: "Film grain vs digital noise: what's the difference?"
 slug: film-grain-vs-digital-noise
 description: "Film grain vs digital noise: where each one comes from, why grain reads as texture and noise as damage, and how to spot digital grain that's just an overlay."
 date: 2026-10-23
-updated: 2026-11-02
+updated: 2026-11-10
 topic: grain-and-halation
 keyword: film grain vs digital noise
 tags: [film grain, digital noise, grain, phone photography, film looks, iso]
@@ -56,7 +56,7 @@ One more detail matters: grain is about what you see at a given size. Kodak's Po
 
 ## What digital noise actually is
 
-Digital noise is the opposite story. Canon Europe's explainer says there's random visual static in every digital image. It becomes obvious at high ISO or in long exposures, because those are the conditions with the poorest ratio of image information to noise. Turning up ISO amplifies both, so the noise becomes more visible. Brightening the shadows later doesn't create noise. It reveals noise that was there all along.
+Digital noise is the opposite story. Canon Europe's explainer says there's random visual static in every digital image. It becomes obvious at high ISO or in long exposures, because those are the conditions with the poorest ratio of image information to noise. Turning up ISO amplifies both, so the noise becomes more visible. Brightening the shadows later doesn't create noise. It reveals noise that was there all along. That's why [night photos on a phone](/blog/night-photos-on-phone) are a balancing act.
 
 Canon splits it into two stages. Some noise arrives at capture, from effects like photon shot noise and crosstalk on the sensor. Other noise is generated during processing, and comes in two kinds: chrominance (colour) noise and luminance (brightness) noise.
 

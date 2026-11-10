@@ -3,7 +3,7 @@ title: "What is halation? The red glow around lights, explained"
 slug: what-is-halation
 description: "What is halation? Why film puts a red-orange glow around streetlights, how it differs from bloom and lens flare, and how to spot a convincing digital version."
 date: 2026-10-11
-updated: 2026-11-04
+updated: 2026-11-10
 topic: grain-and-halation
 keyword: what is halation
 tags: [halation, film grain, film looks, bloom, cinestill 800t, film photography]
@@ -77,7 +77,7 @@ Here's what separates a convincing version from a sticker:
 4. **It's separate from bloom.** Halation and bloom can appear together, but they're different effects with different colours.
 5. **It's subtle in daylight.** On film, halation is easiest to see at night, against dark backgrounds. A daylight portrait drowning in red glow has been overcooked.
 
-If you want to see it for yourself, shoot point lights at night: streetlamps, string lights, a neon sign. Keep the background dark so the halo has something to stand out against. One catch on a phone: HDR processing pulls bright lights down to keep detail, which flattens exactly the highlights that should glow. We cover [what phone HDR does to your photos, and how to rein it in](/blog/why-phone-photos-look-overprocessed).
+If you want to see it for yourself, shoot point lights at night: streetlamps, string lights, a neon sign. Keep the background dark so the halo has something to stand out against, and see [how to take night photos on your phone that look real](/blog/night-photos-on-phone) for the camera side. One catch on a phone: HDR processing pulls bright lights down to keep detail, which flattens exactly the highlights that should glow. We cover [what phone HDR does to your photos, and how to rein it in](/blog/why-phone-photos-look-overprocessed).
 
 ## Where trycheese fits
 
