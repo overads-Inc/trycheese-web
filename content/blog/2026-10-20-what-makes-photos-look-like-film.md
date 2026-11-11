@@ -3,7 +3,7 @@ title: "What makes a photo look like film? 6 tells, explained"
 slug: what-makes-photos-look-like-film
 description: "What makes a photo look like film? Highlight roll-off, stock colour, grain, halation and softness: how each one works, and how to spot a fake film look."
 date: 2026-10-20
-updated: 2026-10-23
+updated: 2026-11-11
 topic: film-looks
 keyword: what makes a photo look like film
 tags: [film looks, film grain, halation, colour negative, slide film, phone photography]
@@ -60,7 +60,7 @@ Kodak describes Portra 400 as delivering spectacular skin tones and exceptional 
 
 Slide film is a different animal. Fujifilm's own film simulations make the split clear. Its Provia, Velvia and Astia modes were designed to deliver the deep colour tones of reversal (slide) film, while its Pro Neg modes emphasise skin tones. In Dehancer's highlight tool, the same split shows up as a single control: one end approximates negative film's paler highlights, the other end slide film's denser ones.
 
-Not every film look has to copy a real stock, either. Fujifilm says its Classic Chrome mode wasn't designed to reproduce an existing film at all. It aims for the feel of documentary photographs and magazines, with low saturation and full-bodied tones. A film look can be a mood, as long as it behaves like film.
+Not every film look has to copy a real stock, either. Fujifilm says its Classic Chrome mode wasn't designed to reproduce an existing film at all. It aims for the feel of documentary photographs and magazines, with low saturation and full-bodied tones. A film look can be a mood, as long as it behaves like film. Cinematographer Steve Yedlin's new iPhone app is built on exactly that idea: here's [how Chromagraph Camera works](/blog/chromagraph-camera-iphone).
 
 Phone makers have noticed. Google says some of the Pixel 11's new Camera Looks were built by rewriting colour lookup tables to emulate classic film chemistry. That's colour response work done at capture rather than a tint added later, and it's the right place to start.
 

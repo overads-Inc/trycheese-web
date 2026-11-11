@@ -3,7 +3,7 @@ title: "Why phone photos look overprocessed (and how to fix it)"
 slug: why-phone-photos-look-overprocessed
 description: "Why phone photos look overprocessed: HDR merging, sharpening and smoothing. Plus the settings that tone it down on iPhone, Pixel and Galaxy phones in 2026."
 date: 2026-10-19
-updated: 2026-11-07
+updated: 2026-11-11
 topic: phone-photography
 keyword: why phone photos look overprocessed
 tags: [phone photography, hdr, iphone, android, pixel, samsung, film looks]
@@ -62,7 +62,7 @@ None of that is a bug. It's tuning for a photo that looks impressive at a glance
 
 **ProRAW.** Shooting RAW feels like the obvious escape, but Apple is clear that ProRAW combines standard RAW data with iPhone image processing, and it works with Smart HDR, Deep Fusion and Night mode. It gives you far more room to edit. It's not unprocessed. Turn it on in Settings > Camera > Formats (iPhone 12 Pro and later Pro models), and budget for roughly 25 MB per 12 MP photo or 75 MB at 48 MP.
 
-**A single-frame camera app.** If you want the merge gone entirely, a third-party camera has to bypass Apple's pipeline. Lux's Halide has a mode called Process Zero that takes one frame, uses no computational photography and develops the photo from sensor data, aiming for what Lux calls "beautiful, film-like natural photos". Lux is upfront about the trade-offs: softer, less saturated, grainier files, dynamic range limited to the sensor, and noisy results in low light with no night mode.
+**A single-frame camera app.** If you want the merge gone entirely, a third-party camera has to bypass Apple's pipeline. The newest example is [Chromagraph Camera](/blog/chromagraph-camera-iphone), which starts from raw and applies a cinematographer's look instead. Lux's Halide has a mode called Process Zero that takes one frame, uses no computational photography and develops the photo from sensor data, aiming for what Lux calls "beautiful, film-like natural photos". Lux is upfront about the trade-offs: softer, less saturated, grainier files, dynamic range limited to the sensor, and noisy results in low light with no night mode.
 
 ## Pixel: Camera Looks and RAW
 
