@@ -3,7 +3,7 @@ title: "What is halation? The red glow around lights, explained"
 slug: what-is-halation
 description: "What is halation? Why film puts a red-orange glow around streetlights, how it differs from bloom and lens flare, and how to spot a convincing digital version."
 date: 2026-10-11
-updated: 2026-11-10
+updated: 2026-11-12
 topic: grain-and-halation
 keyword: what is halation
 tags: [halation, film grain, film looks, bloom, cinestill 800t, film photography]
@@ -67,7 +67,7 @@ The quick test: if the glow is colourful and tight to the light source, it's hal
 
 ## How halation is recreated digitally, and how to spot a fake
 
-Software can't bounce light around inside a strip of film, so digital halation is a model of the effect. Grain works the same way: [digital grain is designed noise](/blog/film-grain-vs-digital-noise), and the good versions follow the image. The good ones follow the physics. Dehancer's halation tool, for example, lets you set which brightness levels count as a light source, how far the halo spreads, how much it leans toward orange, and keeps bloom as a separate control. On Android, Snapseed now includes separate Halation and Bloom tools too, alongside [its free film camera](/blog/snapseed-camera-android).
+Software can't bounce light around inside a strip of film, so digital halation is a model of the effect. Grain works the same way: [digital grain is designed noise](/blog/film-grain-vs-digital-noise), and the good versions follow the image. The good ones follow the physics. Dehancer's halation tool, for example, lets you set which brightness levels count as a light source, how far the halo spreads, how much it leans toward orange, and keeps bloom as a separate control. Lightroom now has a Halation style too: here's [how to set Lightroom's Glow tool so it looks like film](/blog/lightroom-glow-halation). On Android, Snapseed now includes separate Halation and Bloom tools too, alongside [its free film camera](/blog/snapseed-camera-android).
 
 Here's what separates a convincing version from a sticker:
 

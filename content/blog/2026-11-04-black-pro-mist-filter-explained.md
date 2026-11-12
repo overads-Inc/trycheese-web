@@ -3,6 +3,7 @@ title: "What does a Black Pro-Mist filter do? The glow, explained"
 slug: black-pro-mist-filter-explained
 description: "What does a Black Pro-Mist filter do? How diffusion makes highlights glow, which strength to pick, how it differs from halation, and how to get it on a phone."
 date: 2026-11-04
+updated: 2026-11-12
 topic: grain-and-halation
 keyword: what does a Black Pro-Mist filter do
 tags: [bloom, diffusion, black pro-mist, halation, film looks, phone photography]
@@ -89,7 +90,7 @@ You have two routes on a phone.
 
 **A real filter.** Clip-on and magnetic mist filters are made for phones. Tilta, for example, sells a magnetic Black Mist filter for iPhone in 1/4 and 1/2 strengths. The glow is optical, so you see it live and it reacts to real light. The catch: phone HDR pulls bright highlights down to save detail, which can tone down the very glow you paid for. We explain that in [why phone photos look overprocessed](/blog/why-phone-photos-look-overprocessed).
 
-**Software.** A glow effect in an app or the camera itself is free and adjustable. It's only as good as its model of light, though. Use this checklist to judge one:
+**Software.** A glow effect in an app or the camera itself is free and adjustable. It's only as good as its model of light, though. Lightroom's new Glow tool is the latest example, and we cover [its Bloom, Diffusion and Halation styles](/blog/lightroom-glow-halation) separately. Use this checklist to judge one:
 
 1. **The glow scales with brightness.** A bare bulb should glow far more than a lit window, and mid-tones shouldn't glow at all.
 2. **The shadows stay dark.** If the whole frame goes milky, it's a contrast slider, not a mist.
