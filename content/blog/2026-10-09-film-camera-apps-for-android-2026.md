@@ -3,7 +3,7 @@ title: "Film camera apps for Android in 2026: what exists, and what's still miss
 slug: film-camera-apps-for-android-2026
 description: "The best-known film camera apps are still iPhone-only. Here's what Android shooters can use in October 2026, what separates a real film camera app from a filter app, and what to look for."
 date: 2026-10-09
-updated: 2026-11-07
+updated: 2026-11-13
 topic: android-film-cameras
 keyword: film camera app for Android
 tags: [android, film camera app, film looks, film grain, halation, mood.camera, lampa]
@@ -56,7 +56,7 @@ One clear new arrival this year is **ELMAR**, an Android-only film camera app th
 
 The biggest change is Google's. **Snapseed** 4.0 brought a free in-app camera to Android on 8 May 2026, with 11 film styles you can shoot through in real time and change later. That makes it a hybrid rather than a baked-in film camera, but it's now the obvious free starting point. Here's [what Snapseed Camera does and doesn't do](/blog/snapseed-camera-android). **FilmRoll**, a first release on Google Play this month, goes the other way, with rolls of film, 35 stocks and a darkroom.
 
-Beyond that, most of what you'll find by searching "film camera" on the Play Store sits in the filter-app category described above. That isn't a criticism of those apps (they're useful), but if what you want is the iPhone-style "it's already film" experience, check the listing carefully before you install.
+Some phones now have film looks built in, too: here's [which Android phones have them](/blog/android-phones-with-film-looks). Beyond that, most of what you'll find by searching "film camera" on the Play Store sits in the filter-app category described above. That isn't a criticism of those apps (they're useful), but if what you want is the iPhone-style "it's already film" experience, check the listing carefully before you install.
 
 ## Why film looks on a phone at all
 

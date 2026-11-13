@@ -3,7 +3,7 @@ title: "How to get a film look on a Samsung Galaxy phone"
 slug: film-look-samsung-galaxy
 description: "Get a film look on a Samsung Galaxy in three steps: tone down the processing, copy a film colour with My Filters, then add grain and glow with Snapseed."
 date: 2026-11-07
-updated: 2026-11-09
+updated: 2026-11-13
 topic: android-film-cameras
 keyword: film look on Samsung Galaxy
 tags: [android, samsung, film looks, film camera app, film grain, phone photography]
@@ -33,7 +33,7 @@ faq:
 
 You can get a convincing **film look on a Samsung Galaxy** with Samsung's own tools and one free app. It takes three layers: turn down the processing that makes phone photos look clinical, set the colour with Samsung's own My Filters, and add the texture film has, like grain and glow.
 
-Galaxy phones have more of the tools than most people realise. Here's how to put them together, step by step.
+Galaxy phones have more of the tools than most people realise, and they're not alone: here's how [other Android phones' built-in film looks](/blog/android-phones-with-film-looks) compare. Here's how to put them together, step by step.
 
 ## The quick version
 
