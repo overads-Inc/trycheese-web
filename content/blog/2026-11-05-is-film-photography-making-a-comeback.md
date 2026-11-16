@@ -3,6 +3,7 @@ title: "Is film photography making a comeback? The 2026 numbers"
 slug: is-film-photography-making-a-comeback
 description: "Is film photography making a comeback? What Kodak's and Fujifilm's 2026 results, new production lines and film prices actually say, and what they don't."
 date: 2026-11-05
+updated: 2026-11-16
 topic: film-photography
 keyword: is film photography making a comeback
 tags: [film photography, kodak, fujifilm, instax, film prices, film industry]
@@ -87,7 +88,7 @@ None of that is film. But it shows what people want from it: a look, a limit, an
 
 A few practical pointers, based on the numbers above:
 
-1. **Instant is the easiest start.** It's more per shot, but there's no lab and no scanning.
+1. **Instant is the easiest start.** It's more per shot, but there's no lab and no scanning. A disposable is another easy way in, and there's now [a black and white one](/blog/black-and-white-disposable-camera).
 2. **35mm colour is cheaper per frame.** Kodak Gold and Ultramax remain the budget workhorses.
 3. **Black and white is forgiving.** Ilford suggests HP5 Plus as a first film, as we cover in [the black and white film look](/blog/black-and-white-film-look).
 4. **Check prices before you buy.** They vary more by shop and region than by year.

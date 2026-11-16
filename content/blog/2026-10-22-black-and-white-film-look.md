@@ -3,7 +3,7 @@ title: "Black and white film look: what makes it, how to shoot it"
 slug: black-and-white-film-look
 description: "What gives black and white film its look: how colours turn into greys, classic vs fine grain, and glow. Plus how to shoot a convincing version on a phone."
 date: 2026-10-22
-updated: 2026-11-02
+updated: 2026-11-16
 topic: film-looks
 keyword: black and white film look
 tags: [film looks, black and white, film grain, halation, film photography, iphone]
@@ -69,7 +69,7 @@ Black and white film comes in two broad grain personalities.
 
 **Clean grain.** Ilford's Delta films use newer emulsion technology with a lower grain-to-speed ratio: less grain at the same speed, and a slightly cleaner, sharper look. Analog.Cafe's 8 October review of Delta 100 describes its flat, tabular grain against the cubic grain of HP5 Plus, FP4 Plus and Tri-X. Kodak's T-Max line, now sold as [Ektapan after this year's rename](/blog/ektacolor-pro-vs-portra), sits in the same clean-grain camp.
 
-Two more rules of thumb. Ilford notes that slower films generally have finer grain. And the developer changes how grain looks: Analog.Cafe found Rodinal gave Delta 100 crisper grain and DD-X the smoothest.
+If you just want to try it without a camera of your own, Fujifilm now makes [a black and white disposable camera](/blog/black-and-white-disposable-camera) that any colour lab can develop. Two more rules of thumb. Ilford notes that slower films generally have finer grain. And the developer changes how grain looks: Analog.Cafe found Rodinal gave Delta 100 crisper grain and DD-X the smoothest.
 
 On a phone, pick a grain on purpose. Big, gritty grain suits street photography and night scenes. Fine grain suits portraits and architecture. Either way, the grain should feel like part of the image rather than a texture laid over it. That's one of the [six tells of a real film look](/blog/what-makes-photos-look-like-film).
 
