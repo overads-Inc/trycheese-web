@@ -3,6 +3,7 @@ title: "How to take night photos on your phone that look real"
 slug: night-photos-on-phone
 description: "How to take night photos on your phone that still look like night: when to turn off Night mode on iPhone, Pixel and Galaxy, and how to keep glow and grain."
 date: 2026-11-10
+updated: 2026-11-18
 topic: phone-photography
 keyword: how to take night photos on your phone
 tags: [phone photography, night mode, iphone, pixel, samsung, halation]
@@ -80,7 +81,7 @@ That's also where film's most famous night trait shows up. Around bright lights 
 
 Some noise at night is unavoidable. Canon explains why: shadows receive less light, so there's less image information compared with the noise, and brightening them later only reveals noise that was already there.
 
-You can fight that with more light. A faster lens helps, which is why Apple pitches the iPhone 18 Pro's f/1.48 setting for low light, as we explain in [what its variable aperture really changes](/blog/iphone-18-pro-variable-aperture). But you can also make peace with it. Fine, even texture reads as grain and feels like film. Smearing it away reads as fake. Here's [how film grain differs from digital noise](/blog/film-grain-vs-digital-noise).
+You can fight that with more light, and future sensors may help by wasting less of it, as we explain in [what a Bayer filter is](/blog/what-is-a-bayer-filter). A faster lens helps, which is why Apple pitches the iPhone 18 Pro's f/1.48 setting for low light, as we explain in [what its variable aperture really changes](/blog/iphone-18-pro-variable-aperture). But you can also make peace with it. Fine, even texture reads as grain and feels like film. Smearing it away reads as fake. Here's [how film grain differs from digital noise](/blog/film-grain-vs-digital-noise).
 
 ## When Night mode is the right call
 
