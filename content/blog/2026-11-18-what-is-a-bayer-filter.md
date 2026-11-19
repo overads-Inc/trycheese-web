@@ -3,6 +3,7 @@ title: "What is a Bayer filter, and could HoloCoder replace it?"
 slug: what-is-a-bayer-filter
 description: "What is a Bayer filter? How your phone's sensor sees colour, why it wastes light, how film does it differently, and what Metalenz's HoloCoder claims to fix."
 date: 2026-11-18
+updated: 2026-11-19
 topic: phone-photography
 keyword: what is a Bayer filter
 tags: [phone photography, image sensor, bayer filter, low light, digital noise, film looks]
@@ -40,7 +41,7 @@ To see colour, each photosite gets a filter that only lets one colour through. C
 - **There are twice as many green filters** as red or blue, because our eyes are most sensitive to green.
 - **Each pixel records one colour.** The camera then estimates the other two for every pixel, a process called demosaicing.
 
-It's a clever system, and it's why nearly every digital camera today works this way. But it has a cost.
+It's a clever system, and it's why nearly every digital camera today works this way. Some phone apps now let you save that raw Bayer data untouched, like [VWFNDR + MBL on Android](/blog/vwfndr-mbl-camera-app). But it has a cost.
 
 ## Why a Bayer filter costs you light
 
