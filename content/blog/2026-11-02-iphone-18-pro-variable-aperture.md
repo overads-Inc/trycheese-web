@@ -3,6 +3,7 @@ title: "iPhone 18 Pro variable aperture: what it really changes"
 slug: iphone-18-pro-variable-aperture
 description: "The iPhone 18 Pro variable aperture in film terms: what f/1.48 to f/4 does to light and depth of field, when to set it yourself, and why Samsung may pass."
 date: 2026-11-02
+updated: 2026-11-20
 topic: phone-photography
 keyword: iPhone 18 Pro variable aperture
 tags: [phone photography, iphone, aperture, depth of field, samsung, exposure]
@@ -57,7 +58,7 @@ There's a sharpness trade-off at both ends. Waldon says you give up a little at 
 
 ## Why depth of field barely changes
 
-If you've used a film SLR, here's the useful part. As Fstoppers' Lee Morris points out, an f-number is first an exposure setting. f/4 on an iPhone and f/4 on a 35mm camera give the same exposure, so your metering instincts carry straight over.
+If you've used a film SLR, here's the useful part. (At the other extreme, a pinhole camera works at around f/128 to f/352, which is why [pinhole exposures take seconds](/blog/what-is-a-pinhole-camera).) As Fstoppers' Lee Morris points out, an f-number is first an exposure setting. f/4 on an iPhone and f/4 on a 35mm camera give the same exposure, so your metering instincts carry straight over.
 
 Depth of field is the side effect, and it depends on sensor size. Morris's example: focus at 12 feet and f/1.48 keeps everything sharp from about 6 feet to infinity. At f/4, that becomes about 3.3 feet to infinity. We ran the numbers ourselves and got the same result. Either way, a group of friends at a party is in focus.
 

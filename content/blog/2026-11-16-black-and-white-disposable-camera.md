@@ -3,6 +3,7 @@ title: "Black and white disposable camera: Fujifilm QuickSnap B&W"
 slug: black-and-white-disposable-camera
 description: "Fujifilm's QuickSnap Black and White is a black and white disposable camera any colour lab can develop. Specs, tips for good results, and how it compares."
 date: 2026-11-16
+updated: 2026-11-20
 topic: film-photography
 keyword: black and white disposable camera
 tags: [film photography, black and white, fujifilm, disposable camera, film grain, film prices]
@@ -60,7 +61,7 @@ A disposable camera does very little for you, so a few habits matter:
 2. **Use the flash indoors.** It reaches about 3 metres, so keep people within a few steps. Switch it off for daylight scenes.
 3. **Don't get too close.** Fixed-focus lenses aren't made for close-ups. Step back and let the scene breathe.
 4. **Think in light and shape.** Without colour to lean on, side light, shadows and silhouettes do the work. We cover this in [the black and white film look](/blog/black-and-white-film-look).
-5. **Make 27 count.** You can't delete anything. That's part of the charm.
+5. **Make 27 count.** You can't delete anything. That's part of the charm. (For an even simpler camera, see [how a pinhole camera works](/blog/what-is-a-pinhole-camera).)
 
 Grain will be part of every frame, and that's the point. It's the real structure of the image, not a texture added later, as we explain in [film grain vs digital noise](/blog/film-grain-vs-digital-noise).
 
