@@ -3,7 +3,7 @@ title: "How to take night photos on your phone that look real"
 slug: night-photos-on-phone
 description: "How to take night photos on your phone that still look like night: when to turn off Night mode on iPhone, Pixel and Galaxy, and how to keep glow and grain."
 date: 2026-11-10
-updated: 2026-11-18
+updated: 2026-11-21
 topic: phone-photography
 keyword: how to take night photos on your phone
 tags: [phone photography, night mode, iphone, pixel, samsung, halation]
@@ -75,7 +75,7 @@ No tripod? Wedge the phone against a wall, a railing or a table. It's the cheape
 
 The best night photos are built around light sources: a streetlamp, a neon sign, a lit window, reflections on a wet road. Put them against a dark background and they become the subject.
 
-That's also where film's most famous night trait shows up. Around bright lights on film you get halation, the red-orange glow made famous by CineStill 800T, which we explain in [what halation is](/blog/what-is-halation). If you'd rather have a softer white glow, that's bloom, the effect [a Black Pro-Mist filter](/blog/black-pro-mist-filter-explained) adds. Either way, a little glow is what makes a light feel like a light.
+That's also where film's most famous night trait shows up. Around bright lights on film you get halation, the red-orange glow made famous by CineStill 800T, which we explain in [what halation is](/blog/what-is-halation). For the rest of that film's look, from its cool colour to its grain, see [how to get the CineStill 800T look](/blog/cinestill-800t-look). If you'd rather have a softer white glow, that's bloom, the effect [a Black Pro-Mist filter](/blog/black-pro-mist-filter-explained) adds. Either way, a little glow is what makes a light feel like a light.
 
 ## Step 5: Let grain be grain
 
